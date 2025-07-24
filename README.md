@@ -96,7 +96,7 @@ pip install -r requirements.txt
 Once the dependencies are installed and your environment is activated, you can run the application with the following command:
 
 ```
-python Polyglot＿AI＿Studio.py
+python Polyglot_AI_Studio.py
 ```
 
 🚀 How to Use
