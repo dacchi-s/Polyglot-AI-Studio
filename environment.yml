@@ -1,0 +1,11 @@
+name: polyglot-studio
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - pip
+  - python-dotenv
+  - openai
+  - anthropic
+  - pip:
+    - google-generativeai
